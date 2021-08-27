@@ -9,6 +9,20 @@ baseurl             : ""                               # subpath of your site (e
 repository          : watakumo/watakumo.github.io      # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.0.0    # uncomment this if you are using it as a remote theme
 
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**                           # For Documentation Only
+
+
 ### Author Info ###
 author:
   name              : キム
@@ -30,16 +44,6 @@ author:
 # twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
-
-
-### Pagination ###
-paginate: 12
-paginate_path: "/articles/page-:num/"
-
-
-### Posts Permalink ###
-permalink: articles/:title
-
 
 ### Collections ###
 collections:
