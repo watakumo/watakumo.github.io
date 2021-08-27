@@ -7,8 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+はじめまして **{{ site.author.name }}**　と申します。<br>
+自分の強みを３つの言葉で表現すると、「推進力」「分析力」「努力」だと思います。<br>
+IT技術を生かして日本でやりたいことが山ほどあります。<br>
+また、日本社会の一員として日本の文化を尊重し、共に生き、成長したい気持ちが高いです。
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
