@@ -1,17 +1,67 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: 高校, Anyang Foreign Language High School
+  from: 2004.3
+  to: 2007.2
+  description: 韓国には外国語高校という「特殊目的高校」があります。<br>
+               ネイティブ2人を含めた5人の先生から日本語を学びました。<br>
+               元々は東京留学を計画して2年生の時はJLPT2級を取得しましたが<br>
+               家庭の事情で国内進学に変更しました。<br>
+               その後、恥ずかしいながら思わず浪人の2年やっちゃいました。<br>
+               ですがその時の経験があるからこそ、今の自分になれたと思います。<br>
+               なぜなら浪人の時に文系と理系の勉強をしたからです。<br>
+               大学に入って生命工学共に文系の経営情報学を学ぶきっかけになりました。
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: 大学, Konkuk University of Korea
+  from: 2009.3
+  to: 2016.2
+  description: ソウルにある全国10位ぐらいの私立大学に入りました。<br>
+               生命工学と経営情報学を複数専攻しました。学生会で情報部部長で務める一方<br>
+               クラブ活動として、学内ITサイトを作り運営代表として活動しました。<br>
+               5年間、30人のチームと一緒にサイトを2０倍以上成長させました。(会員数 2.5万 / 接続者数 3千人/1day)<br>
+               その時、アフィリエイト・IT企画・開発・運用活動に取り組みました。開発言語はPHPでした。
+
+
+- title: 兵役, Republic of Korea Army
+  from: 2013.12
+  to: 2015.9
+  description: 北朝鮮の金剛山（クムガンサン）が見える最前線で陸軍部隊で配属されました。<br>
+               最前線部隊だったので、北朝鮮の砲撃挑発の時は戦闘用意をするなど大変でした。<br>
+               メディック・義務（衛生）兵と呼ばれる医療任務に勤めました。<br>
+               一年間は派遣兵士として、色んな部隊の多様な人々と仲良く協力しながら成長しました。<br>
+               6歳下の上司もいましたが、軍人としてしっかりと命令に従いました。<br>
+               2年目の時からは分隊長として5人の義務室リーダーになり、一ヶ月に約300人あまりを治療しました。<br>
+               診療プロセスを改選する自分なりの目標を立て達成しました。その努力を認められ部隊長の表彰を受けました。
+
+- title: 教育生, 韓国貿易協会 Smart Cloud ITマスター
+  from: 2016.2
+  to: 2017.1
+  description: 100人の同期ちとIT業界に就職する覚悟で朝8時から夜の10時まで一所懸命勉強しました。<br>
+               Java言語はスタンドアロンから学び始め、ネットワーキング、スレッドを学習しました。<br>
+               OracleDB, HTML5/CSS, Javascriptも正式的に一から学びました。<br>
+               フレイムワークはStruts2、Springなどを学びました。<br>
+               アンドロイドもWebView,Frameなどまでは教育受けました。<br>
+               修了式では学生代表の一人に選ばれ表彰を受けました。
+
+- title: 編入生, Korea Cyber University of Korea
+  from: 2016.3
+  to: 2018.3
+  description: スキルは「ITマスター」コースで磨くことができましたが、<br>
+               コンピューター工学の理論や知識が欲しいと以前から思っていました。<br>
+               なので、入社サイバー大学に編入しSW工学専攻し、リモートで大学に通いました。<br>
+               普通の4年制専攻生と同じ全過程を履修し、SW工学士の学位を取りました。
+
+- title: SE, ソフトウェアエンジニア
+  from: 2017.4
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 入社後、同期たちとは違って即戦力としてプロジェクトに配属されました。<br>
+               入社して初めて自分の机を触って涙が出たことを今も覚えています。<br>
+               目標は「立派な一人前」。願い通り入社3か月後からは一人でシステム開発を<br>
+               担当したことがあります。その後、特にプログラム能力を認められ2年目からは<br>
+               サブリーダー兼フロントメイン担当としてReactでSPAサイトを開発しました。<br>
+               他のフロントチーム員が使うベース部品を作り一方、HOCでカスタム部品も作り<br>
+               フロント開発の速度を高めるために努力しました。<br>
+               新人の二人と客先のコンサルタント2人にReactの教育もしました。<br>
+               私は元々JAVAが得意だったので、単位テスト兼結合テストで<br>
+               サーバサイドからのバグトラッキングも管理しました。<br>
+               月100時間以上の残業が続いて、2人分・3人分の仕事を担当しましたが、<br>
+               一ヶ月ほど早めに開発が完成され客の満足を得られました。<br>
+               育児休職前に有終の美をなした成果だったと評価しています。

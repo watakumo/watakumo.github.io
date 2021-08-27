@@ -1,7 +1,23 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: 韓国情報処理技師 取得（IPA応用情報 相互認証）
+  percentage: 0
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: リナックスマスタ 2級 取得（韓国情報振興協会）
+  percentage: 0
+  color: info
+
+- name: Ruby技術者認定試験 Silver 取得
+  percentage: 0
+  color: info
+
+- name: JLPT N1 取得（旧 JLPT 4級、2級、1級 保持）
+  percentage: 0
+  color: info
+
+- name: Toeic 825点 (最高点集 860点)
+  percentage: 0
+  color: success
+
+- name: Toeic Speacking Level6 ( 130点 )
+  percentage: 0
   color: success
