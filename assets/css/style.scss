@@ -2,5 +2,9 @@
 ---
 // 
 .card-columns { display: grid;grid-template-columns: 1fr 1fr 1fr; };
+.card-img-top {
+    height: 250px !important;
+    object-fit: scale-down;    
+};
 @import "portfolYOU";
 
