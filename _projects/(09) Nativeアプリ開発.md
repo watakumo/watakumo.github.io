@@ -7,7 +7,7 @@ description: ラボ型(コンサルチング業務を含む)業務
 
 # Nativeアプリ開発
 
-{% include elements/highlight.html text="テスターを超えた解決者としての役割" %}
+{% include elements/highlight.html text="技術コンサルタント・Android実装担当者としての役割" %}
 
 ---
 {% include elements/list.html title="概要" %}
