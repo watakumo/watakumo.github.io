@@ -4,8 +4,15 @@
 .card-columns { 
     display: grid; 
 //     grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-columns: repeat(5, 1fr);
+};
+@media(max-width:540px){
+.card-columns { 
+    display: grid; 
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 };
+
+}
 .card-img-top {
     height: 250px !important;
     object-fit: scale-down;    
