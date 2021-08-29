@@ -18,7 +18,7 @@ description: ラボ型(コンサルチング業務を含む)業務
 - webviewで他社さんが開発したHybrid画面連携 (フロー処理、DeepLink処理、ウェブ実装限 界の処理をバックアップ)
 
 {% include elements/list.html title="期間" %}
-2020.07 ~ 2021.08 (2ヶ月)
+2021.07 ~ 2021.08 (2ヶ月)
 
 {% include elements/list.html title="チーム人数（職位）" %}
 3人（メンバー、テクリーダー）
