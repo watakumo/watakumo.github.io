@@ -7,7 +7,7 @@ description: 名刺など文字を認識し規定情報のみ自動登録するg
 
 # 光学的文字認識(OCR)アプリ制作
 
-{% include elements/highlight.html text="テスターを超えた解決者としての役割" %}
+{% include elements/highlight.html text="名刺など文字を認識し規定情報のみ自動登録するgoogle MLkitを適当したプロトタイプアプリ" %}
 
 ---
 {% include elements/list.html title="概要" %}
