@@ -1,3 +1,15 @@
+- name: JLPT N1 取得（旧 JLPT 4級、2級、1級 保持）
+  percentage: 0
+  color: info
+
+- name: Toeic 825点 (最高点集 860点)
+  percentage: 0
+  color: success
+
+- name: Toeic Speacking Level6 ( 130点 )
+  percentage: 0
+  color: success
+  
 - name: 韓国情報処理技師 取得（IPA応用情報 相互認証）
   percentage: 0
   color: info
@@ -10,14 +22,28 @@
   percentage: 0
   color: info
 
-- name: JLPT N1 取得（旧 JLPT 4級、2級、1級 保持）
-  percentage: 0
-  color: info
-
-- name: Toeic 825点 (最高点集 860点)
+- name: PHP7技術者認定初級試験
   percentage: 0
   color: success
 
-- name: Toeic Speacking Level6 ( 130点 )
+- name: Javaプログラミング能力認定試験 2級
   percentage: 0
   color: success
+  
+- name: Python 3 エンジニア認定基礎試験 
+  percentage: 0
+  color: success
+
+- name: HTML level1
+  percentage: 0
+  color: success
+
+- name: Google アナリティクス個人認定資格（GAIQ）
+  percentage: 0
+  color: success
+
+
+  
+
+
+
