@@ -5,9 +5,8 @@ image: https://www.multidots.com/wp-content/uploads/2014/09/02-Native-hybrid.jpg
 description: ラボ型(コンサルチング業務を含む)業務
 ---
 
-# 映画チケット購入アプリ開発
-
-{% include elements/highlight.html text="テスターを超えた解決者としての役割" %}
+# Nativeアプリ開発(hybrid化)
+{% include elements/highlight.html text="技術コンサルタント・Android実装担当者としての役割" %}
 
 ---
 {% include elements/list.html title="概要" %}
