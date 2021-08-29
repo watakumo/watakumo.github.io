@@ -7,7 +7,7 @@ description: 社内開発サーバで利用中のシステムをAWSのサービ�
 
 # 映画チケット購入アプリ開発
 
-{% include elements/highlight.html text="テスターを超えた解決者としての役割" %}
+{% include elements/highlight.html text="社内開発サーバで利用中のシステムをAWSのサービスとGitHubへ移行" %}
 
 ---
 {% include elements/list.html title="概要" %}
