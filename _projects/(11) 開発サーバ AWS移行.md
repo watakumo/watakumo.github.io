@@ -1,11 +1,11 @@
 ---
 name: 開発サーバ AWS移行(調査・見積)
 tools: [Linux,AWS Codepipline,AWS EC2(AMI)]
-image: https://www.easyredmine.com/images/articles/p14/f3751/logo.jpg
+image: https://www.easyredmine.com/ER/media/images/articles/p14/f3751/logo.jpg?width=1920&height=0&rmode=min&quality=75&token=NXAe7orcv2N5NbhLZcRCU%2BBr0k%2BTgZHdlyw33KHVe8g%3D
 description: 社内開発サーバで利用中のシステムをAWSのサービスとGitHubへ移行
 ---
 
-# 映画チケット購入アプリ開発
+# 開発サーバ AWS移行(調査・見積)
 
 {% include elements/highlight.html text="社内開発サーバで利用中のシステムをAWSのサービスとGitHubへ移行" %}
 
